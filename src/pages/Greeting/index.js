@@ -18,8 +18,8 @@ function Greeting() {
         <div className="cover-container">
           <figure className="figure">
             <div>
-              <strong className="full-name">MATHEUS & TAMARA</strong>
-              <strong className="min-name">M & T</strong>
+              <strong className="full-name">R & D</strong>
+              <strong className="min-name">R & D</strong>
               <span>27.03.2021</span>
             </div>
           </figure>
@@ -28,9 +28,8 @@ function Greeting() {
       <Countdown />
       <Panel
         title="sobre nós"
-        subtitle="#casoriomatheusetamara___#acasacaiu"
-        text="Olá, seja bem-vindo ao nosso site de casamento!___Aqui vamos contar à vocês, queridos amigos e familiares, sobre um pouquinho da nossa vida antes desse momento especial em que daremos esse passo a mais para unirmos nossas vidas. É um prazer compartilhar esse momento com vocês!___No início trabalhávamos juntos na mesma empresa e nos conhecemos através de outros colegas de trabalho, então uma grande amizade surgiu, não imaginaríamos nunca que seria desse jeito, mas depois essa amizade acabou se tornando paixão que rendeu um fruto de amor que cresceu e floresceu.___Nossa história juntos começou no dia 24 de maio de 2013 e depois de quase 8 anos (do noivo enrolando) nós vamos casar! A contagem regressiva começa, o frio na barriga e toda a ansiedade do dia mais esperado de nossas vidas nos enche de alegria, o dia em que uniremos nossas almas e corpos para sempre, o dia do nosso casamento."
-      />
+        subtitle="#chadepanela___#acasacaiu"
+        text="Olá, seja bem-vindo ao nosso site "/>
       <Text>
         <section className="text-wrapper">
           {/* <h2>AVISO</h2> */}
@@ -52,7 +51,7 @@ function Greeting() {
         </section>
       </Text>
 
-      <Photo imgSrc="https://lh3.googleusercontent.com/pw/ACtC-3cahIQqgxONfOvPeSpu7GbRw0VDE-ANeL0-jUjxzj-ykFdRkUuUK5_ik0rHpFejF36K9v1rPJGUhZJaetA92F2FoKIugcchHYG0cl7Jw5VYOkWXVvfL9MfdoH3_47hogdo8SlGMOyVkT4rklRyCv5Ie=w1707-h960-no?authuser=0">
+      <Photo imgSrc="https://cdn.discordapp.com/attachments/1128078686449577996/1246935726361284608/IMG_20231209_181254_445.webp?ex=665e32e4&is=665ce164&hm=49e8e59d36d242b26a43f74fc2538d82566ab10f2ae3ff93d315b4039fc27ec9&">
         <div className="photo-wrapper">
           <figure />
         </div>
