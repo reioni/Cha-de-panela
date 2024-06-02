@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gab618/cha-de-panela">
+  <a 
     <img src="http://cdn5.colorir.com/desenhos/color/201748/panela-a-casa-a-cozinha-1422935.jpg" alt="Logo" height="80">
   </a>
 
@@ -10,12 +10,7 @@
   <p align="center">
     Chá de Panela virtual em formato de e-commerce
     <br />
-    <a href="https://github.com/gab618/cha-de-panela"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://matheusetamara.netlify.app">Site</a>
-  </p>
-</p>
+
 
 <!-- ABOUT THE PROJECT -->
 
@@ -63,16 +58,3 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 <!-- ## License
 Distributed under the MIT License. See `LICENSE` for more information. -->
-
-<!-- CONTACT -->
-
-## Contact
-
-Gabriel - [@ezrealblindado](https://twitter.com/ezrealblindado) - gabrielrocha1997@gmail.com
-
-<!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[product-screenshot]: https://media3.giphy.com/media/DuxqBzEI50U54qfctS/giphy.gif
